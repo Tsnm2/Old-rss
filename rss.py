@@ -9,7 +9,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 api_id = "1751973"   # Get it from my.telegram.org
 api_hash = "1d27e36489924b52c985879bccaf861d"   # Get it from my.telegram.org
-feed_url = "https://pornrips.to/feed/"   # RSS Feed URL of the site.
+feed_url = "https://torrentgalaxy.to/rss"   # RSS Feed URL of the site.
 bot_token = "1990575948:AAGIUQDT-MIf-p8oSNffBWkBsC_ys4bFKeE"   # Get it by creating a bot on https://t.me/botfather
 log_channel = "-1001531113599"   # Telegram Channel ID where the bot is added and have write permission. You can use group ID too.
 check_interval = 20   # Check Interval in seconds.  
